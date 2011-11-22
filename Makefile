@@ -7,7 +7,7 @@ build:
 
 
 run:
-	./dld-streamer.sh kennethreitz 60
+	./dld-streamer.sh kenneth 25
 
 upload:
 	PATH=bin:/usr/local/bin:/usr/bin:/bin:/app/bin/ ./upload-finished.sh batcave.textfiles.com::kenneth/splinder/
