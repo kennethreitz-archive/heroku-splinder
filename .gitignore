@@ -1,7 +1,0 @@
-data/
-*.pyc
-*.log
-wget-warc
-logs/
-STOP
-
